@@ -1,0 +1,152 @@
+\documentclass[11pt,a4paper,sans]{moderncv} % Font sizes: 10, 11, or 12; paper sizes: a4paper, letterpaper, a5paper, legalpaper, executivepaper or landscape; font families: sans or roman
+
+
+\moderncvstyle{classic} % CV theme - options include: 'casual' (default), 'classic', 'oldstyle' and 'banking'
+\moderncvcolor{purple} % CV color - options include: 'blue' (default), 'orange', 'green', 'red', 'purple', 'grey' and 'black'
+
+\usepackage{lipsum} % Used for inserting dummy 'Lorem ipsum' text into the template
+\usepackage{hanging}
+\usepackage[scale=0.8]{geometry} % Reduce document margins
+%\setlength{\hintscolumnwidth}{3cm} % Uncomment to change the width of the dates column
+%\setlength{\makecvtitlenamewidth}{10cm} 
+% For the 'classic' style, uncomment to adjust the width of the space allocated to your name
+\usepackage{cite}
+\usepackage{bigfoot}
+\usepackage{moderncvstyleclassic}
+\usepackage{moderncvcompatibility}
+
+%----------------------------------------------------------------------------------------
+%	NAME AND CONTACT INFORMATION SECTION
+%----------------------------------------------------------------------------------------
+
+\firstname{Patricia Susan} % Your first name
+\familyname{Pittman} % Your last name
+
+% All information in this block is optional, comment out any lines you don't need
+\title{Curriculum Vitae}
+\address{155 Campbell Hall, 1787 Neil Ave}{ Columbus, OH 43210}
+%\mobile{(+1) (661) 886-9435}
+\email{pittman.143@osu.edu}
+\homepage{patriciaspittman.netlify.com/} {} % The first argument is the url for the clickable link, the second argument is the url displayed in the template - this allows special characters to be displayed such as the tilde in this example
+
+
+%\extrainfo{DOB: September 15, 1997}
+%\photo[70pt][0.4pt]{pictures/House} % The first bracket is the picture height, the second is the thickness of the frame around the picture (0pt for no frame)
+%\quote{"A witty and playful quotation" - John Smith}
+%----------------------------------------------------------------------------------------
+
+\begin{document}
+
+\makecvtitle
+
+\href{https://scholar.google.com/citations?user=5hVOys8AAAAJ&hl=en}{Google Scholar}
+
+
+\section{Research Interests}
+
+Interracial romantic relationships, especially the development, relationship quality, and the unique struggles these couples face both within and outside of the relationship.
+%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Education}
+\cvitem{2018 to Present}{ \textbf{Ph.D.} The Ohio State University}
+\cvitem{2018}{ \textbf{B.A.} California State University, Long Beach. \textit{Cum Laude}}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Fellowships and Awards}
+\cvitem{2019}{ \textbf{National Science Foundation Graduate Research Fellowship Program}. Interracial Couples at Risk. Total costs: \$138,000}
+
+\cvitem{2019}{ \textbf{College of Education and Human Ecology Edith M. Slabaugh Scholarship}. Total costs: \$5,800}
+
+\cvitem{2018}{ \textbf{Graduate Enrichment Fellowship}. Total costs: \$25,000}
+
+\cvitem{2019}{ \textbf{Patrick S. Osmer SROP Fellowship}. Total costs: \$25,000}
+
+\cvitem{2018}{\textbf{Society for Research on Adolescence Undergraduate Scholars Program}}
+
+\cvitem{2017}{\textbf{The Ohio State University Summer Research Opportunity Program}} 
+
+\cvitem{2016-2018}{\textbf{Building Infrastructure Leading to Diversity (BUILD)}. \textit{Scholars program}}
+
+\cvitem{2015-2016}{\textbf{Building Infrastructure Leading to Diversity (BUILD)}. \textit{Associates program}}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Publications}
+
+\begin{hangparas}{.25in}{1}
+
+Lanza, H. I., \& \textbf{Pittman, P. S.} (2019). A Peek Past the Vape Clouds: Vape Shop Decline in Long Beach, California during 2015-2018. \textit{Tobacco Regulatory Science}, 5(5), 447-455.            \href{https://doi.org/10.18001/TRS.5.5.5}{doi.org/10.18001/TRS.5.5.5}.
+\\
+
+Lanza, H. I., \textbf{Pittman, P. S.} \& Hser, Y. (2018). Parenting with w Substance Abuse
+History: The Moderating Role of Parenting Behaviors on Obesity and Internalizing Symptoms in Adolescence. \textit{Youth and Society}. \href{https://doi.org/10.1177/0044118X18815274}{doi.org/10.1177/0044118X18815274}.
+\\
+
+Lanza, H. I., \textbf{Pittman, P. S.} \& Batshoun, J. (2017).Obesity and Cigarette Smoking:
+Extending the Link to E-cigarette/Vaping Use.  \textit{American Journal of Health Behavior}. 41(3): 338-347. \href{https://doi.org/10.5993/AJHB.41.3.13}{doi.org/10.5993/AJHB.41.3.13}.
+
+\end{hangparas}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Poster Presentations, National Conferences}
+
+\begin{hangparas}{.25in}{1}
+\textbf{Pittman, P. S.} \& Kamp Dush, C. M. (2019, April). Discrimination and Depressive
+Symptoms in the Context of Interracial Relationships: Evidence from the National
+Longitudinal Study of Adolescent to Adult Health. Presented at the Population
+Association of America 2019 Conference, Austin, TX.
+\\
+
+\textbf{Pittman, P. S.} \& Lanza, H. I. (May, 2018). Mothers' Parental Behaviors: Do They Play a Role in Obese Children's Risk of Internalizing Symptoms? Presented at the annual
+meeting of the Association for Psychological Science, San Francisco, CA.
+\\
+
+Lanza, H. I., \& \textbf{Pittman, P. S.} (April, 2018). Risk/Protective Factors of Obesity across Adolescence Vary by Gender and Ethnicity. Poster presented at the annual meeting of Society for Research of Adolescence, Minneapolis, MN.
+\\
+
+\textbf{Pittman, P. S.} \&  Lanza, H. I. (April, 2017). Results From A Checklist-Based Observation
+Form. Poster presented to the annual meeting of the Western Psychological
+Association, Sacramento, CA.
+\\
+
+\textbf{Pittman, P. S.},  Lanza, H. I., \& Batshoun J. (May, 2016). College Students Feeling Stressed and Depressed? They May Benefit from Better Self-Control. Poster presented at the annual meeting of the Association for Psychological Science, Chicago, IL.
+\\
+
+Lanza, H. I., \textbf{Pittman, P. S.} Batshoun, J., Ruiz, N., Castellano, C., Perez, J., \& Teeter, H. (May, 2016). Attitudes, Behaviors, and Motivations for Etobacco Use: Vape Culture in Young Adults. Poster presented to the annual meeting of the Association of Psychological Science, Chicago, IL.
+\\
+
+Perez, J., Castellano, C., \textbf{Pittman, P. S.} \& Lanza, H. I.  (April, 2016). Behind the Vape Clouds: Understanding Vape Culture in Long Beach, CA. Poster presented to the annual meeting of the Western Psychological Association, Long Beach, CA.
+\\
+
+Lanza, H. I., \textbf{Pittman, P. S.} Batshoun, J., Ruiz, N., Castellano, C., \& Perez, J. (April, 2016). Vaping Culture in Long Beach, CA: A Look from Inside. Poster presented at the annual meeting of the Western Psychological Association, Long Beach, CA.
+\end{hangparas}
+
+\section{Other Presentations}
+\begin{hangparas}{.25in}{1}
+
+\textbf{Pittman, P. S.} \& Kamp Dush, C. M. (2019, November). Discrimination, Stress, and
+Depressive Symptoms in the Context of Interracial Relationships. Oral presentation at the BGSU/OSU Graduate Student Conference on Population, Columbus, OH.
+\\
+
+\textbf{Pittman, P. S.} \&  Beauchaine, T. P. (July, 2017). Children’s Cardiac Responding to Incentives Predicts Growth in Ineffective Parenting Across Three Annual Assessments. \textit{Oral
+presentation} at the Ohio State University Summer Research Opportunities Program Summer Symposium, Columbus, OH.
+\\
+
+\textbf{Pittman, P. S.} \&  Lanza, H. I. (July, 2016). Does Self-Control Moderate the Relationship Between Stress and Depression among College Students? Poster presented at the
+BUILD Summer Symposium, Long Beach, CA.
+\end{hangparas}
+
+\section{Service}
+\cvitem{2018-Present}{\textbf{Graduate student liaison to the Human Development and Family Science
+Undergraduate Student Organization}}
+
+\section{Professional Affiliations}
+\cvitem{}{\textbf{Population Association of America}}
+\cvitem{}{\textbf{Western Psychological Association}}
+\cvitem{}{\textbf{Association for Psychological Science}}
+\cvitem{}{\textbf{Society for Prevention Research}}
+\cvitem{}{\textbf{Society for Research on Adolescence}}
+\cvitem{}{\textbf{Society for Advancement of Chicanos and Native Americans in Science}}
+
+
+
+\end{document}
+
